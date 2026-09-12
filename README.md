@@ -248,4 +248,4 @@ This repository serves as the official landing page for McAfee Internet Security
 **Get the most recent version of McAfee Internet Security today!**
 
 ---
-**Last updated:** 2026-09-12 21:12:37 UTC
+**Last updated:** 2026-09-12 23:44:13 UTC
